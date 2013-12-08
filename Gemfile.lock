@@ -21,7 +21,7 @@ GIT
       spree_core (~> 2.1)
 
 PATH
-  remote: spree_bootstrap_frontend
+  remote: vendor/cache/spree_bootstrap_frontend
   specs:
     spree_bootstrap_frontend (2.2.0.beta)
       bootstrap-sass (~> 3.0.3.0)
